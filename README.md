@@ -32,15 +32,10 @@
 🛠️ Nest.js
 ⚛️ React
 🚀 Express
-
 - 🤝 I’m available for freelancing.
-
 - 👯 I love collaborating on open-source projects and contributing to the community.
-
 - ✔️ Ask me anything about web or software development, and I'll be happy to help.
-
 - 🎮 Outside of technology, I enjoy playing video games, listening to music 🎵, and exploring creative ideas.
-
 - 📫 Reach me at: **enriquehdezserna@gmail.com**
 
 
