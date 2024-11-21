@@ -28,8 +28,6 @@
 <!-- Texto sobre mi  -->
 👨‍💻 Hi! I'm Enrique, a passionate software developer.
 💼 A Software Development and Management Engineer, expanding my skills in frontend and backend development. Currently working as a freelancer, creating productive, innovative, and creative solutions.
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
 - 🌱 Always learning:
 🛠️ Nest.js
 ⚛️ React
