@@ -71,4 +71,16 @@
 
 <!-- GitHub Analytics  -->
 ## 📊 &nbsp;GitHub Analytics
- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=EnriqueHdezserna&show_icons=true&theme=tokyonight)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueHdezserna&theme=tokyonight) 
+<p align="center">
+  <a href="#">
+  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueHdezserna&show_icons=true&theme=highcontrast)
+  </a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueHdezserna&layout=compact&theme=highcontrast)
+</p>
+
+<div align="center">
+
+ ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueHdezserna&theme=highcontrast)
+
+</div>
