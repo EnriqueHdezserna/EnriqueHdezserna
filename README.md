@@ -26,23 +26,24 @@
 
 <!-- sobre ti   -->
 <!-- Texto sobre mi  -->
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+👨‍💻 Hi! I'm Enrique, a passionate software developer.
+💼 A Software Development and Management Engineer, expanding my skills in frontend and backend development. Currently working as a freelancer, creating productive, innovative, and creative solutions.
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 Always learning:
+🛠️ Nest.js
+⚛️ React
+🚀 Express
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 👯 I love collaborating on open-source projects and contributing to the community.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- ✔️ Ask me anything about web or software development, and I'll be happy to help.
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 🎮 Outside of technology, I enjoy playing video games, listening to music 🎵, and exploring creative ideas.
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
+- 📫 Reach me at: **enriquehdezserna@gmail.com**
 
 
 <!--horizontal divider(gradiant)-->
