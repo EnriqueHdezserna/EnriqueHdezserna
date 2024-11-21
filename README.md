@@ -80,7 +80,7 @@
 <!-- GitHub Analytics  -->
 ## 📊 &nbsp;GitHub Analytics
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+ ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=EnriqueHdezserna&show_icons=true&theme=tokyonight)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueHdezserna&theme=tokyonight) 
 
 
 
