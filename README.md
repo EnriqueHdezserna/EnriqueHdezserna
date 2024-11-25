@@ -71,13 +71,17 @@
 
 <!-- GitHub Analytics  -->
 ## 📊 &nbsp;GitHub Analytics
-<p align="center">
-  <a href="#">
+<div align="center">
   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueHdezserna&show_icons=true&theme=highcontrast)
-  </a>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueHdezserna&layout=compact&theme=highcontrast)
-</p>
+  
+</div>
+
+<div align="center">
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueHdezserna&show_icons=true&theme=highcontrast)
+
+</div>
 
 <div align="center">
 
