@@ -73,7 +73,7 @@
 ## 📊 &nbsp;GitHub Analytics
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueHdezserna&layout=compact&theme=highcontrast)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorgarcia&layout=compact&theme=highcontrast)
   
 </div>
 
